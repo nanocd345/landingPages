@@ -1,7 +1,8 @@
 :root{
-    --color-primary:#EFAF64;
-    --color-secundary:#333333;
-    --color-ternary:#FFFFFF;
-    --color-botton:#FE6E06;
-    --color-card:#FAEFE3;
+    --color-boton:#252525;
+
+    @font-face {
+        font-family: "Avenir-Black";
+        src: url(/storage/font/Avenir/Avenir-Black);
+    }
 }
